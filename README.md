@@ -7,7 +7,7 @@ Followint technologiease are used:
 
   ->Mongodb
   
-  ->POstman api
+  ->Postman api
   
   ->Python (Flask)
   
