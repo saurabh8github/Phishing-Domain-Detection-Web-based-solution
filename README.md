@@ -18,6 +18,8 @@ Followint technologiease are used:
             2) WHOIS API
             3) PAGESPEED INSIGHT API
             4)  VIRUSTOTAL
-            
+
+
+This project make us to win best use of API in OPIN Hack 2023 organised by BIT durg where students over different cities across 55+ are participated 
   
   
